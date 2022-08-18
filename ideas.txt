@@ -1,0 +1,17 @@
+Project ideas
+
+1. Consignment shop
+    - Allow for submissions of clothing for authentaction and pricing
+    - Allow for adding items and removing them from a site wide DB
+
+2. Map of local vegan options
+    - Allow for adding new locations and places with options to DB
+
+3. Dedicated website for vegan product reviews
+    - Allow for adding all information and photos of product under review
+
+4. Shoe size converter and brand recomendations based on shoe size
+    - Allows for saving of brands and sizing depending on region
+
+5. Mouse sensitiviey calculator
+    - Allow for saving of information of sensitiviey depending on game
